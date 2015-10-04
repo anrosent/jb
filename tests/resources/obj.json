@@ -1,0 +1,9 @@
+{
+    "foo": "bar",
+    "baz": [1,2],
+    "qux": {
+        "foo": 2,
+        "baz": ["strs", "this time"],
+        "qux": null
+    }
+}
